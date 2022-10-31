@@ -3,7 +3,7 @@ variable "access_token" {
 }
 
 variable "realm" {
-  description = "Splunk Realm"
+  description = "Splunk's old Realm"
 }
 
 variable "sfx_prefix" {
